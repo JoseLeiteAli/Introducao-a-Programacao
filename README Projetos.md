@@ -1,7 +1,7 @@
-<h1 align="center"> #Introdução à programação# <h1>
+<h1 align="center"> Introdução à programação <h1>
 
 
-<h2 align="center"> *Projeto - Categoria CNH* <h2>
+<h2 align="center"> Projeto - Categoria CNH <h2>
 
 
 Instruções do projeto:
@@ -23,7 +23,7 @@ D: Veículos com quatro rodas ou mais e que acomodam mais de oito pessoas;
 
 E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 
-<h2 align="center"> *Projeto - Andar* <h2>\
+<h2 align="center"> Projeto - Andar <h2>
 
 Instruções do projeto:
 
@@ -36,7 +36,7 @@ Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando o
 Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 
 
-<h2 align="center"> *Projeto - Calculadora* <h2>
+<h2 align="center"> Projeto - Calculadora <h2>
 
 
 Faça uma função calculadora de dois números com três parâmetros: os dois primeiros serão os números da operação e o terceiro será a entrada que definirá a operação a ser executada. Considera a seguinte definição:
