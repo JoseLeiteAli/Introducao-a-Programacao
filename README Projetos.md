@@ -38,6 +38,7 @@ Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 
 <h2 align="center"> Projeto - Calculadora <h2>
 
+Instruções do projeto:
 
 Faça uma função calculadora de dois números com três parâmetros: os dois primeiros serão os números da operação e o terceiro será a entrada que definirá a operação a ser executada. Considera a seguinte definição:
 
