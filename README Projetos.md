@@ -51,3 +51,13 @@ Faça uma função calculadora de dois números com três parâmetros: os dois p
 4. Divisão
 
 Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
+
+
+<h2 align="center"> Projeto - Nome e Data de Nascimento <h2>
+
+Instruções do projeto:
+
+Desenvolva um programa que recebe do usuário nome completo e ano de nascimento que seja entre 1922 e 2021.
+A partir dessas informações, o sistema mostrará o nome do usuário e a idade que completou, ou completará, no ano atual (2022).
+
+Caso o usuário não digite um número ou apareça um inválido no campo do ano, o sistema informará o erro e continuará perguntando até que um valor correto seja preenchido.
