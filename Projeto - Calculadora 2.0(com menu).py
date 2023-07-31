@@ -36,7 +36,3 @@ while True:
             print('O resultado da divisão entre os números é:', n1 / n2)
         else:
             print('Erro: Divisão por zero não é permitida!')
-
-    elif opcao == 0:
-        print('Até a próxima!')
-        break
