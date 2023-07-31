@@ -76,7 +76,7 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 É necessário que o sistema mostre as opções sempre que finalizar uma operação e mostrar o resultado. 
 
 
-<h2 align="center"> Projeto - Nome e Data de Nascimento <h2>
+<h2 align="center"> Projeto - Nome e Ano de Nascimento <h2>
 
 Instruções do projeto:
 
